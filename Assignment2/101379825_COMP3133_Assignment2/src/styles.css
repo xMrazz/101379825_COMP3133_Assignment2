@@ -1,0 +1,12 @@
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+  }
+  
+  .card-header h3 {
+    margin: 0;
+  }
+  
+  .btn-sm {
+    margin-right: 5px;
+  }

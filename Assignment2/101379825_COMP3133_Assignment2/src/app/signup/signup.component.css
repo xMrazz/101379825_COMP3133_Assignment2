@@ -1,0 +1,33 @@
+.signup-container {
+    margin-top: 50px;
+  }
+  
+  .signup-container .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .signup-container .card-header {
+    background-color: #888888;
+    color: #fff;
+    padding: 10px 15px;
+  }
+  
+  .signup-container .card-body {
+    padding: 20px;
+  }
+  
+  .signup-container .form-label {
+    font-weight: bold;
+  }
+  
+  .signup-container .btn-success {
+    background-color: #888888;
+    border: none;
+  }
+  
+  .signup-container .btn-success:hover {
+    background-color: #777777;
+    border: none;
+    cursor: pointer;
+  }

@@ -1,0 +1,33 @@
+.login-container {
+    margin-top: 50px;
+  }
+  
+  .login-container .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-container .card-header {
+    background-color: #888888;
+    color: #fff;
+    padding: 10px 15px;
+  }
+  
+  .login-container .card-body {
+    padding: 20px;
+  }
+  
+  .login-container .form-label {
+    font-weight: bold;
+  }
+  
+  .login-container .btn-primary {
+    background-color: #888888;
+    border: none;
+  }
+  
+  .login-container .btn-primary:hover {
+    background-color: #777777;
+    border: none;
+    cursor: pointer;
+  }
